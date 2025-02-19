@@ -12,6 +12,7 @@ This project takes house price prediction beyond simple ML models, transforming 
 ✅ Write scalable, reusable, and defensive ML code.
 ✅ Integrate MLOps tools like ZenML & MLflow for experiment tracking and deployment.
 
+
 🛠 Tech Stack
 
 Python (Pandas, NumPy, Scikit-Learn, XGBoost, LightGBM)
@@ -25,17 +26,20 @@ MLOps (MLflow for tracking, ZenML for pipeline management)
 Deployment (FastAPI/Flask, Docker, AWS/GCP)
 
 
+
 📊 Exploratory Data Analysis (EDA)
 
 Handle missing values, outliers, and feature correlations.
 
 Visualize price distributions, location impacts, and trends.
 
+
 🏗️ Feature Engineering
 
 Extract new features from existing ones (e.g., price per square foot).
 
 Use domain knowledge to transform categorical and numerical variables.
+
 
 🤖 Model Training & Evaluation
 
@@ -44,6 +48,7 @@ Train multiple models (Linear Regression, XGBoost, Random Forest, LGBM).
 Use cross-validation and hyperparameter tuning.
 
 Implement a custom model selection pipeline.
+
 
 🔥 MLOps & Deployment
 
@@ -54,6 +59,7 @@ ZenML for managing pipelines.
 Docker & FastAPI for deployment.
 
 AWS/GCP for cloud-based model hosting.
+
 
 🏆 Results & Takeaways
 
